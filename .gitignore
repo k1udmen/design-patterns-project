@@ -2,6 +2,10 @@ B201202015
 Salih Doğaner
 Design patterns Project assignment
 
+The observer pattern is used to allow an object to publish changes to its state.
+Other objects subscribe to be immediately notified of any changes.
+
+
 
 interface TextChangedListener {
 
