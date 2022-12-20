@@ -1,3 +1,8 @@
+B201202015
+Salih Doğaner
+Design patterns Project assignment
+
+
 interface TextChangedListener {
 
     fun onTextChanged(oldText: String, newText: String)
